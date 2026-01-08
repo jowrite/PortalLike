@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PortalLikeV2-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/PortalLikeV2Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/UnrealEditor/Development/PortalLikeV2/Module.PortalLikeV2.gen.cpp.obj"
+"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/UnrealEditor/Development/PortalLikeV2/PortalLikeV2.cpp.obj"
+"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/UnrealEditor/Development/PortalLikeV2/FPSProjectGameMode.cpp.obj"
+"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/UnrealEditor/Development/PortalLikeV2/PerModuleInline.gen.cpp.obj"
+"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/UnrealEditor/Development/PortalLikeV2/Default.rc2.res"
+/OUT:"C:/Users/Jodie/Desktop/PortalLikeV2/Intermediate/Build/Win64/x64/UnrealEditor/Development/PortalLikeV2/UnrealEditor-PortalLikeV2-0001.lib"

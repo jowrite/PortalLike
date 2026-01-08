@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PortalLikeV2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PortalLikeV2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PortalLikeV2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PortalLikeV2">
+      <UniqueIdentifier>{6FADE3B4-FA7C-3066-902E-89EC6C59B6CC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PortalLikeV2\PortalLikeV2.Build.cs">
+      <Filter>Source\PortalLikeV2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PortalLikeV2\PortalLikeV2.cpp">
+      <Filter>Source\PortalLikeV2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PortalLikeV2\PortalLikeV2.h">
+      <Filter>Source\PortalLikeV2</Filter>
+    </ClInclude>
+    <Filter Include="Source\PortalLikeV2\Private">
+      <UniqueIdentifier>{347523AE-B80A-3F73-9FE8-C3BB872E5A50}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PortalLikeV2\Private\FPSProjectGameMode.cpp">
+      <Filter>Source\PortalLikeV2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\PortalLikeV2\Public">
+      <UniqueIdentifier>{BADF9098-F912-3F2E-8C01-AA4E36B86CCB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\PortalLikeV2\Public\FPSProjectGameMode.h">
+      <Filter>Source\PortalLikeV2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jodie\\desktop\\portallikev2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portallikev2\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jodie\\desktop\\portallikev2\\intermediate\\build\\win64\\x64\\portallikev2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jodie\\desktop\\portallikev2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\portallikev2\\definitions.portallikev2.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PortalLikeV2.gen.cpp.obj": [
+			"FPSProjectGameMode.gen.cpp.obj",
+			"PortalLikeV2.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PortalLikeV2",
+			"Path": "..\\Source\\PortalLikeV2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PortalLikeV2Editor",
+			"Path": "..\\Source\\PortalLikeV2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
